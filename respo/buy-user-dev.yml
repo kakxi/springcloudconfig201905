@@ -1,1 +1,3 @@
-base.sys.encryptKey=123456789
+base:
+  sys:
+    encryptKey: 123456789
